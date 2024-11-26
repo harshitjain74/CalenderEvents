@@ -1,6 +1,19 @@
-# demo
+# CalenderEvents
 
-A new Flutter project.
+Highly customizable, feature-packed calendar widget for Flutter.
+
+# Features
+
+- Extensive, yet easy to use API
+- Preconfigured UI with customizable styling
+- Custom selective builders for unlimited UI design
+- Locale support
+- Range selection support
+- Multiple selection support
+- Dynamic events and holidays
+- Vertical autosizing - fit the content, or fill the viewport
+- Multiple calendar formats (month, two weeks, week)
+- Horizontal swipe boundaries (first day, last day)
 
 ## Getting Started
 
